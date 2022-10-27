@@ -1,0 +1,19 @@
+Link to unlisted youtube video:
+https://youtu.be/NLGPFhqVVJo
+
+Public link to the slide (Anyone on the internet can view without login):
+https://docs.google.com/presentation/d/1oWU7SvGzZ3QlA9N1WseSYK0EIuzS2Ru-JUyNEbR0Su8/edit?usp=sharing
+
+Paper title:
+Evidential Deep Learning for Open Set Action Recognition
+
+Link to the paper:
+https://openaccess.thecvf.com/content/ICCV2021/html/Bao_Evidential_Deep_Learning_for_Open_Set_Action_Recognition_ICCV_2021_paper.html
+
+Group Number:
+5
+
+Group Members:
+20101592	Fardin Bin Rahman
+20201214	Ilmy Islam
+21101197	Mayesha Tabassum
