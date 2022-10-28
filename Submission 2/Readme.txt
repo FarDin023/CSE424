@@ -11,7 +11,7 @@ Paper title:
 Evidential Deep Learning for Open Set Action Recognition
 
 Link to the paper:
-https://openaccess.thecvf.com/content/ICCV2021/html/Bao_Evidential_Deep_Learning_for_Open_Set_Action_Recognition_ICCV_2021_paper.html
+https://github.com/FarDin023/CSE424/blob/main/Submission%202/Bao_Evidential_Deep_Learning_for_Open_Set_Action_Recognition_ICCV_2021_paper.pdf
 
 Group Number:
 5
