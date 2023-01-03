@@ -2,7 +2,7 @@ Unlisted youtube video:
 
 
 Conference submitted paper / paper submission / login Link:
-
+https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FConference%2FRecent
 
 Paper title:
 NitroSwin: Identifying Rice Leaves with Nitrogen Deficiency using Swin Transformer
