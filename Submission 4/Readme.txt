@@ -7,6 +7,12 @@ https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FConference%2FRecent
 Paper title:
 NitroSwin: Identifying Rice Leaves with Nitrogen Deficiency using Swin Transformer
 
+Paper presentation (anyone can view without login):
+https://docs.google.com/presentation/d/12I8x6r71jsHs364L5FEWtM368uWjTlgYJZWKd32Q3X4/edit?usp=sharing
+
+Paper submission date (to workshop/conference):
+30 January, 2023
+
 Paper submission ID: (received) from conference/workshop
 21
 
